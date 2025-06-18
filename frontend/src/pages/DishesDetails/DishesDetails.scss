@@ -1,0 +1,30 @@
+.dish-details {
+  padding: 2rem;
+  max-width: 700px;
+  margin: auto;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #2c3e50;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+
+    li {
+      margin: 0.5rem 0;
+      font-size: 1rem;
+
+      strong {
+        color: #555;
+        width: 150px;
+        display: inline-block;
+      }
+    }
+  }
+}

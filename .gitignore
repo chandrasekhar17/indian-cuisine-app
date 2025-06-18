@@ -1,0 +1,17 @@
+# Node
+node_modules/
+dist/
+.env
+
+# Logs
+*.log
+
+# Mac/Linux
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# React build
+frontend/build
